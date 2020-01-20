@@ -5,6 +5,11 @@ It provides a single platform to organize all the assets for any organization.
 
 ### Made with Love and MERN Stack
 
+#### Login Page
+![Login Page](Login.png)
+
+#### Assets Page
+![Assets Page](Assets.png)
 
 # Getting Started
 
